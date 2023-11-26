@@ -30,3 +30,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/itzt0kyoo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itzt0kyoo" /></a></p><br><br>
+
+---
+
+<img src="https://i.imgur.com/OaGHXPu.png" alt="hessbanner" />
