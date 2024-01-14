@@ -15,7 +15,7 @@
 
 - 💬 J'aime bien faire du **graphisme**
 
-- 📫 Comment me joindre ? **t0kyoo.fr@gmail.com**
+- 📫 Comment me joindre ? **logan.dachicourt@hess-group.xyz**
 
 <h3 align="left">Me contacter :</h3>
 <p align="left">
