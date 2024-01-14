@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/itzt0kyoofr" target="blank"><img src="https://img.shields.io/twitter/follow/itzt0kyoofr?logo=twitter&style=for-the-badge" alt="itzt0kyoofr" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [HessFM (Website)](https://beta.hessfm.fr/)
+- 🔭 Je travaille actuellement sur [HydraCloud)](https://hydracloud.fr/)
 
 - 🌱 J'apprends actuellement **Python, SQL, HTML / CSS**
 
@@ -16,8 +16,6 @@
 - 💬 J'aime bien faire du **graphisme**
 
 - 📫 Comment me joindre ? **t0kyoo.fr@gmail.com**
-
-- ⚡ Fun fact: **J'aime les jeux vidéos**
 
 <h3 align="left">Me contacter :</h3>
 <p align="left">
