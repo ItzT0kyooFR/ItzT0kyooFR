@@ -15,7 +15,7 @@ Bien que j'avance avec les nouvelles vagues tech, j'ai de solides bases avec cer
 ### 🌟 Projet à l'Honneur
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ItzT0kyooFR/DBM-Reborn/main/image_13.png" alt="DBM Reborn Logo" width="250">
+  <img src="https://cdn-cf.nexxe.studio/projects/DBMReborn/DBM%20Reborn.png" alt="DBM Reborn Logo" width="250">
   <h3>DBM Reborn</h3>
   <p>Une modernisation et une renaissance du Discord Bot Maker.</p>
   <a href="https://github.com/ItzT0kyooFR/DBM-Reborn">
@@ -38,17 +38,24 @@ Voici les outils avec lesquels j'ai des connaissances et de l'expérience :
 <img src="https://img.shields.io/badge/FiveM-F08080?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM">
 <img src="https://img.shields.io/badge/AI%20Development-000000?style=for-the-badge&logo=openai&logoColor=white" alt="IA (Développement)">
 <img src="https://img.shields.io/badge/AI%20Generation-purple?style=for-the-badge&logo=gpt&logoColor=white" alt="IA (Génération)">
+<img src="https://img.shields.io/badge/DBM%20Reborn-purple?style=for-the-badge&logo=gpt&logoColor=white" alt="DBM Reborn">
 
 *Note : Mon expérience avec le HTML/CSS se concentre principalement sur la **modification** et la personnalisation de solutions existantes plutôt que sur la création de zéro.*
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 Statistiques Étendues (github-stats-extended)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItzT0kyooFR&show_icons=true&theme=nord&border_color=purple&hide_border=true&title_color=A020F0&icon_color=A020F0&text_color=A020F0" alt="Statistiques de ItzT0kyooFR">
+  <!-- Aperçu composite des statistiques étendues : Activité & Langages -->
+  <!-- Nous utilisons des modèles agrégés pour un aspect 'étendu' consolidé -->
+  
+  <img src="https://github-stats-extended.vercel.app/api?username=ItzT0kyooFR&count_private=true&show_icons=true&theme=nord&border_color=a020f0&hide_border=true&title_color=A020F0&icon_color=A020F0&text_color=A020F0&include_all_commits=true" alt="ItzT0kyooFR Étendues Activité">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzT0kyooFR&layout=compact&theme=nord&border_color=purple&hide_border=true&title_color=A020F0&text_color=A020F0" alt="Langages les plus utilisés">
+  
+  <!-- Visualisation détaillée des langages : Stack complet -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ItzT0kyooFR&layout=compact&hide_title=true&theme=nord&border_color=a020f0&hide_border=true&text_color=A020F0&hide_progress=false" alt="Distribution détaillée des langages">
+
 </div>
 
 ---
